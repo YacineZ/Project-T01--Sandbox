@@ -1,2 +1,2 @@
 # Project T01 - SandBox
-# Laracost courses - FrontEnd
+# Laracost cours - FrontEnd

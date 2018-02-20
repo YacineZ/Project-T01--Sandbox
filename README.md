@@ -1,3 +1,3 @@
 # Project T01 - SandBox
-# Laracost cours - FrontEnd
+# Laracost courss d2 - FrontEnd
 # Github manipulaions
